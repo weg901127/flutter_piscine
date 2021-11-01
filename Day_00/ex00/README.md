@@ -1,4 +1,4 @@
-# Exercise 00 - DART
+# Exercise 00 - First Step
 
 | 제출할 폴더 :   | ex00 |
 | :-------------- | :--- |
