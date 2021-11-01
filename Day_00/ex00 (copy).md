@@ -15,6 +15,7 @@
 <img  align="left" width="200" height="200" src="../.src/contents_01.png">
 <img align="left"width="200" height="200" src="../.src/contents_02.png">   
 
+---
 무엇보다 Dart는 간결하며 유연한 코드를 작성할 수 있고 재미있습니다. 그리고 이를 통해 사용자에게 멋진 경험을 전달하는 앱을 만들 수 있죠!
 
 ---
