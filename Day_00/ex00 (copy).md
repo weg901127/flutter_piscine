@@ -13,7 +13,7 @@
 - Google의 헌신적인 업데이트 덕분에 현재는 모바일 크로스 플랫폼 개발에서는 선두를 다투는 언어가 되었고 Google의 차세대 OS인 Fuchsia에 Flutter가 공식 Framework로 선정되면서 지금보다 앞으로가 더 기대되는 언어이기도 합니다.  
 
 <img  align="left" width="200" height="200" src="../.src/contents_01.png">
-<img align="left"width="200" height="200" src="../.src/contents_02.png">   
+<img align="center"width="200" height="200" src="../.src/contents_02.png">   
 
 ---
 무엇보다 Dart는 간결하며 유연한 코드를 작성할 수 있고 재미있습니다. 그리고 이를 통해 사용자에게 멋진 경험을 전달하는 앱을 만들 수 있죠!
