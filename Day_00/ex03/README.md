@@ -31,6 +31,7 @@
 ---
 - 다음은 Flutter App이 AVD에서 어떻게 작동해야 하는지를 보여줍니다.
 <img  align="center" src="../../.src/day00_ex03_00.png">  
+
 - 이미지는 다음과 같이 주어집니다.
   - https://w.namu.la/s/420422c9668360c3654fb8d4ba4b4921a22a8732d660e08d81cfa5281035aae6573a4f61927aaeecdcf6ee911af6ea5a4aa49bef54be3f63ada78ac5f914e1cfb4b78e644e2190944fb886f2688ffb91
 
