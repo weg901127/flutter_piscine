@@ -15,5 +15,5 @@
   
 
 <img  align="center" width="200" height="200" src="../.src/contents_01.png"> 
-<img align="center"width="200" height="200" src="../.src/contents_02.png">   
+<img align="right"width="200" height="200" src="../.src/contents_02.png">   
 
