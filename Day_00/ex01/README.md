@@ -10,7 +10,7 @@
 
 - 프로젝트의 이름은 'hello_flutter'이여야 합니다.
 
-- null safety와 lints 적용하지 않으려면 pubspec.ymal의 속성은 다음과 같이 수정하여야 합니다.
+- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정하여야 합니다.
 
   ```yaml
   environment:
@@ -25,8 +25,8 @@
 
   ```dart
   //그리고 기본적으로 제공되는 코드의 일부분은 다음과 같이 변경되어야 합니다.
-  //MyApp({Key? key}); -> MyApp({Key key});
-  //MyHomePage({required this.title}) -> MyHomePage({@required this.title})
+  MyApp({Key? key}); -> MyApp({Key key});
+  MyHomePage({required this.title}) -> MyHomePage({@required this.title})
   ```
 
 - 다음은 Flutter App이 AVD에서 어떻게 작동해야 하는지를 보여줍니다.
