@@ -29,6 +29,8 @@
   MyHomePage({required this.title}) -> MyHomePage({@required this.title})
   ```
 
+---
+
 - 주어진 코드로 아래의 App을 만들어야 합니다.
 
   - Code

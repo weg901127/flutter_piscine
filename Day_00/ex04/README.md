@@ -29,6 +29,8 @@
   MyHomePage({required this.title}) -> MyHomePage({@required this.title})
   ```
 
+---
+
 - 다음은 Flutter App이 AVD에서 어떻게 작동해야 하는지를 보여줍니다.  
 <img  align="center" src="../../.src/dat00_ex04_00.gif">  
 
