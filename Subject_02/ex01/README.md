@@ -1,13 +1,13 @@
-# Exercise 00 - Check In
+# Exercise 01 - Navigator
 
-| 제출할 폴더 : | ex00      |
+| 제출할 폴더 : | ex01      |
 | :------------ | :-------- |
 | 제출할 파일 : | main.dart |
 | 참고사항 :    | 없음      |
 
-- 이 과제의 목표는 Flutter Project를 시작하면서 자동으로 Build되는 코드를 변경하여 UI를 바꾸고 `Hot Reload`의 놀라운 기능을 경험해 보는 것입니다.
+- 이 과제의 목표는 Flutter에서 Route 개념을 이해하고 Route를 이동할 수 있도록 구현해보는 것입니다.
 
-- 프로젝트의 이름은 'hello_flutter'이여야 합니다.
+- 프로젝트의 이름은 `navigator`이여야 합니다.
 
 - null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정하여야 합니다.
 
@@ -30,22 +30,26 @@
 
 ---
 
-- 다음은 Flutter App이 AVD에서 어떻게 작동해야 하는지를 보여줍니다.
+- 다음은 Flutter App이 AVD(혹은 Simulator)에서 어떻게 작동해야 하는지를 보여줍니다.
 
-<img  align="center" src="../../.src/Day_01_ex00_00.gif">  
+<img  align="center" src="../../.src/day02_ex01_00.gif">  
 
 
-  - 사용자의 입력을 받을 수 있는 기능을 갖추어야 합니다.
-- 사용자의 입력이 없거나 유효하지 않은 공백인 경우 추가 정보를 표시해야 합니다.
-- 사용자의 입력은 숫자를 유도해내야 합니다, 그러므로 키보드는 숫자를 표시해야 합니다.
-- 버튼을 누르는 경우 입력창 Form은 App화면에서 사라져야 합니다.
-- 사용자의 정보가 입력되고 버튼을 누를 때 일시적인 메시지를 표시합니다.
-     - 입력된 값이 정수 값 42라면 CHECK IN에 성공하는 메시지를 그 외에는 실패 메시지를 표시합니다.
-- 메모리 또는 리소스의 누수는 허용하지 않습니다. 비록 티가 나지 않는다고 해도 말이죠!
+  - 각각의 Scaffold가 AppBar를 호출하는 메서드의 이름은 `_buildAppBar`여야 합니다.
+
+    - _buildAppBar 메서드는 PreferredSizeWidget을 반환해야 합니다.
+
+  - 각각의 Scaffold가 body를 호출하는 메서드의 이름은 `_buildBody`여야 합니다.
+
+     - _buildBody 메서드는 Widget을 반환해야 합니다.
+
+- App의 전체적인 분위기는 반드시 같아야 합니다.
+
+     - iOS에서는 Android와는 달리 Route를 이동할 때 Default Action은 Side Motion입니다, 그러니 반드시 위와 같을 필요는 없습니다.
 
 
 
 ⚡️Keyword
 
-key, validate, validator, FocusScope, TextEditingController, dispose
+`stack`, `navigator`
 

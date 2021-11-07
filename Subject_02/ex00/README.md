@@ -1,13 +1,13 @@
 # Exercise 00 - Check In
 
-| 제출할 폴더 : | ex00      |
-| :------------ | :-------- |
-| 제출할 파일 : | main.dart |
-| 참고사항 :    | 없음      |
+| 제출할 폴더 : | ex00                                                         |
+| :------------ | :----------------------------------------------------------- |
+| 제출할 파일 : | `ex00/main.dart`, `ex00/custom_widget/first_page.dart`<br />, `ex00/custom_widget/second_page.dart` |
+| 참고사항 :    | 없음                                                         |
 
-- 이 과제의 목표는 Flutter Project를 시작하면서 자동으로 Build되는 코드를 변경하여 UI를 바꾸고 `Hot Reload`의 놀라운 기능을 경험해 보는 것입니다.
+- 이 과제의 목표는 App에서 사용자에 대한 입력을 이해하고 값을 처리해 보는 경험을 해보는 것입니다.
 
-- 프로젝트의 이름은 'hello_flutter'이여야 합니다.
+- 프로젝트의 이름은 `check_in`이여야 합니다.
 
 - null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정하여야 합니다.
 
@@ -30,7 +30,7 @@
 
 ---
 
-- 다음은 Flutter App이 AVD에서 어떻게 작동해야 하는지를 보여줍니다.
+- 다음은 Flutter App이 AVD(혹은 Simulator)에서 어떻게 작동해야 하는지를 보여줍니다.
 
 <img  align="center" src="../../.src/day02_ex00_00.gif">  
 
