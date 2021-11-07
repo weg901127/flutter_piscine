@@ -4,24 +4,17 @@
 
 ### Preamble
 
-<img align="center" height="200" src="../.src/contents_00.png">   
+- 아름다운 App을 만드는데 모든 곳에 역량 쏟는 것은 꽤나 피곤한 일입니다.
 
-- 다음 내용은 2018년 Codementor에서 선정한 최악의 프로그래밍 언어 순위입니다.
+- 하지만 Flutter에서는 많은 개발자들이 아름답고 유용한 라이브러리를 쉽게 사용할 수 있기 때문에 여러분은 단지 멋진 라이브러리를 찾고 사용법을 익히며 적용하면 됩니다.
 
-- 최악의 커뮤니티, 시장성, 트렌드와 성장 모두 타의 추종을 불허하던 Dart는 Google의 Flutter에 활용되면서 상황2ㅇ이 급변하기 시작했습니다.
+- 놀랍고도 아름다운 라이브러리를 사용하여 당신의 앱에 영감을 불어 넣으세요.
 
-- Google의 헌신적인 업데이트 덕분에 현재는 모바일 크로스 플랫폼 개발에서는 선두를 다투는 언어가 되었고 Google의 차세대 OS인 Fuchsia에 Flutter가 공식 Framework로 선정되면서 지금보다 앞으로가 더 기대되는 언어이기도 합니다.  
+  [Dart packages](https://pub.dev/)
 
----
-<img  align="left" width="200" height="200" src="../.src/contents_01.png">
-<img align="center"width="200" height="200" src="../.src/contents_02.png">   
+![https://flutter.dev/assets/images/showcase/cards/mgm-top-600.png](https://flutter.dev/assets/images/showcase/cards/mgm-top-600.png)  
 
-
-무엇보다 Dart는 간결하며 유연한 코드를 작성할 수 있고 재미있습니다. 그리고 이를 통해 사용자에게 멋진 경험을 전달하는 앱을 만들 수 있죠!
-
----
-
-# **Instructions**
+**Instructions**
 
 노골적인 모순이 없는 이상, 해당 지침은 Dart-Flutter Piscine의 모든 과제에 적용됩니다.  
 - 이 페이지에 있는 내용만이 레퍼런스로 적용됩니다. 루머를 믿지 마세요!
