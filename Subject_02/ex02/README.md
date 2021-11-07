@@ -7,9 +7,9 @@
 
 - 이 과제의 목표는 외부 라이브러리를 사용하여 이미 제공되어 있는 풍부한 UI를 사용해보고 라이브러리의 편리함과 이를 통해 App을 더욱 멋지게 꾸미는 것입니다.
 
-- 프로젝트의 이름은 `fluent_gauges`이여야 합니다.
+- 프로젝트의 이름은 `fluent_gauges`여야 합니다.
 
-- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정하여야 합니다.
+- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정을 해야 합니다.
 
   ```yaml
   environment:

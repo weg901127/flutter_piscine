@@ -7,9 +7,9 @@
 
 - 이 과제의 목표는 Flutter에서 Network의 대표 프로토콜 중 하나인 http를 이해하고 효율적인 코드 작성을 위한 test code를 작성하고 활용하여 네트워크를 통해 데이터 통신을 체험 해 보는 것입니다.
 
-- 프로젝트의 이름은 `statue_code_200`이여야 합니다.
+- 프로젝트의 이름은 `statue_code_200`이어야 합니다.
 
-- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정하여야 합니다.
+- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정을 해야 합니다.
 
   ```yaml
   environment:

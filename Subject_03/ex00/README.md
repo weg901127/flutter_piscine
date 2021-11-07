@@ -7,9 +7,9 @@
 
 - 이 과제의 목표는 주어진 이미지를 활용하여 App내에서 Widget을 통해 표현해보는 경험을 해 보는 것입니다. 물론 멋진 폰트까지 포함해서 말이죠!
 
-- 프로젝트의 이름은 `limitless`이여야 합니다.
+- 프로젝트의 이름은 `limitless`여야 합니다.
 
-- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정하여야 합니다.
+- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정을 해야 합니다.
 
   ```yaml
   environment:

@@ -7,9 +7,9 @@
 
 - 이 과제의 목표는 본격적으로 Flutter Project를 시작하면서 특정한 기능을 가진 Widget을 구현해보고 변경하여 나만의 Widget을 만들어 보는 것입니다.
 
-- 프로젝트의 이름은 `my_widget`이여야 합니다.
+- 프로젝트의 이름은 `my_widget`이어야 합니다.
 
-- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정하여야 합니다.
+- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정을 해야 합니다.
 
   ```yaml
   environment:

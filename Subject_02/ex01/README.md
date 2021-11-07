@@ -7,9 +7,9 @@
 
 - 이 과제의 목표는 Flutter에서 Route 개념을 이해하고 Route를 이동할 수 있도록 구현해보는 것입니다.
 
-- 프로젝트의 이름은 `navigator`이여야 합니다.
+- 프로젝트의 이름은 `navigator`여야 합니다.
 
-- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정하여야 합니다.
+- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정을 해야 합니다.
 
   ```yaml
   environment:

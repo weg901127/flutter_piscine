@@ -7,9 +7,9 @@
 
 - 이 과제의 목표는 네트워크에서 가장 많이 사용되는 데이터 포멧 중 하나인 Json을 활용하여 데이터를 변환하여 효율적으로 사용할 수 있는 방법을 배워보고 활용하는 경험을 해보는 것 입니다.
 
-- 프로젝트의 이름은 `json2dart`이여야 합니다.
+- 프로젝트의 이름은 `json2dart`여야 합니다.
 
-- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정하여야 합니다.
+- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정을 해야 합니다.
 
   ```yaml
   environment:

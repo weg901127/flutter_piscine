@@ -1,16 +1,15 @@
 # Exercise 03 - Custom Widget
 
-| 제출할 폴더 :   | ex03                       |
-| :-------------- | :------------------------- |
-| 제출할 파일 :   | main.dart, blur_image.dart |
-| 허용되는 함수 : | 없음                       |
-| 참고사항 :      | 없음                       |
+| 제출할 폴더 : | ex03                                                   |
+| :------------ | :----------------------------------------------------- |
+| 제출할 파일 : | `ex03/main.dart`, `ex03/custom_widget/blur_image.dart` |
+| 참고사항 :    | 없음                                                   |
 
 - 이 과제의 목표는 본격적으로 Flutter Project를 시작하면서 특정한 기능을 가진 Widget을 구현해보고 변경하여 영화를 소개하는 페이지를 만들어 보는 것입니다.
 
-- 프로젝트의 이름은 'my_widget'이여야 합니다.
+- 프로젝트의 이름은 `my_widget`이어야 합니다.
 
-- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정하여야 합니다.
+- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정을 해야 합니다.
 
   ```yaml
   environment:
@@ -29,7 +28,7 @@
   MyHomePage({required this.title}) -> MyHomePage({@required this.title})
   ```
 ---
-- 다음은 Flutter App이 AVD에서 어떻게 작동해야 하는지를 보여줍니다.
+- 다음은 Flutter App이 AVD(혹은 Simulator)에서 어떻게 작동해야 하는지를 보여줍니다.
 <img  align="center" src="../../.src/day00_ex03_00.png">  
 
 - 이미지는 다음과 같이 주어집니다.
@@ -37,7 +36,6 @@
 
   - https://maxmovie.cdnsave.com/images/1628644797279L0zPH.jpg
 
-    
 - Widget의 이름은 'BlurImage'이여야 합니다.
 - 이미지는 반드시 URL을 통해 App에 표시되어야 합니다.
 - 화면에 표시되는 이미지는 App의 중앙에 위치하고 이미지의 비율은 정확히 다음을 따라야 합니다. (width : 1.0, height : 1.0)

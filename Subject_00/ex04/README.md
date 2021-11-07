@@ -8,9 +8,9 @@
 
 - 이 과제의 목표는 본격적으로 전체적인 하나의 화면의 구성을 생각하고 구현해보고 완성된 화면을 보며 **귀여움**을느껴 보는 것입니다.
 
-- 프로젝트의 이름은 'poketmonster'이여야 합니다.
+- 프로젝트의 이름은 `poketmonster`여야 합니다.
 
-- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정하여야 합니다.
+- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정을 해야 합니다.
 
   ```yaml
   environment:
