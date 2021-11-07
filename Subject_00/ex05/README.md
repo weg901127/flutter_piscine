@@ -31,7 +31,7 @@
 
 ---
 
-- 다음은 Flutter App이 AVD에서 어떻게 작동해야 하는지를 보여줍니다.  
+- 다음은 Flutter App이 AVD(혹은 Simulator)에서 어떻게 작동해야 하는지를 보여줍니다.  
 <img  align="center" src="../../.src/day00_ex05_00.gif">  
 
 

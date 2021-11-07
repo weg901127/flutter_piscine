@@ -8,9 +8,9 @@
 
 - 이 과제의 목표는 Map자료형을 통해 필요한 데이터를 구분해내고 발견합니다. (마치 천문학자처럼요!)
 
-- 프로젝트의 이름은 `hello_collection`이여야 합니다.
+- 프로젝트의 이름은 `hello_collection`이어야 합니다.
 
-- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정하여야 합니다.
+- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정을 해야 합니다.
 
   ```yaml
   environment:

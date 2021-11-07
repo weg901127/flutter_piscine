@@ -7,9 +7,9 @@
 
 - 이 과제의 목표는 Route의 전환, 네트워크 통신, 외부 라이브러리 및 다양한 기능을 활용하여 하나의 멋진 기능을 갖는 App을 만들어 보는 것 입니다.
 
-- 프로젝트의 이름은 `conference`이여야 합니다.
+- 프로젝트의 이름은 `conference`여야 합니다.
 
-- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정하여야 합니다.
+- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정을 해야 합니다.
 
   ```yaml
   environment:

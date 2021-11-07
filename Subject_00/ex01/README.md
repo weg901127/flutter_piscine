@@ -1,16 +1,15 @@
 # Exercise 01 - Hello Flutter
 
-| 제출할 폴더 :   | ex01      |
-| :-------------- | :-------- |
-| 제출할 파일 :   | main.dart |
-| 허용되는 함수 : | 없음      |
-| 참고사항 :      | 없음      |
+| 제출할 폴더 : | ex01      |
+| :------------ | :-------- |
+| 제출할 파일 : | main.dart |
+| 참고사항 :    | 없음      |
 
 - 이 과제의 목표는 Flutter Project를 시작하면서 자동으로 Build되는 코드를 변경하여 UI를 바꾸고 `Hot Reload`의 놀라운 기능을 경험해 보는 것입니다.
 
-- 프로젝트의 이름은 'hello_flutter'이여야 합니다.
+- 프로젝트의 이름은 `hello_flutter`여야 합니다.
 
-- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정하여야 합니다.
+- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정을 해야 합니다.
 
   ```yaml
   environment:
@@ -31,7 +30,7 @@
 
 ---
 
-- 다음은 Flutter App이 AVD에서 어떻게 작동해야 하는지를 보여줍니다.
+- 다음은 Flutter App이 AVD(혹은 Simulator)에서 어떻게 작동해야 하는지를 보여줍니다.
 
 <img  align="center" src="../../.src/day00_ex01_00.gif">  
 

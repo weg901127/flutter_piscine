@@ -7,9 +7,9 @@
 
 - 이 과제의 목표는 각종 레이아웃을 살펴보고 어떤 차이점이 있는지 알아보는 것입니다.
 
-- 프로젝트의 이름은 `hello_layout`이여야 합니다.
+- 프로젝트의 이름은 `hello_layout`이어야 합니다.
 
-- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정하여야 합니다.
+- null safety와 lints 적용하지 않으려면 pubspec.yaml의 속성은 다음과 같이 수정을 해야 합니다.
 
   ```yaml
   environment:
