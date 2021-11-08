@@ -31,7 +31,7 @@
 
 [gilee](https://github.com/weg901127)
 
-[차경묵](https://github.com/hannal)
+[Hannal](https://github.com/hannal)
 
 [and You.](https://github.com/weg901127/flutter_piscine/pulls)
 
