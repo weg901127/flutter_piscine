@@ -34,7 +34,7 @@
 - 이미지는 다음과 같이 주어집니다.
   - https://w.namu.la/s/420422c9668360c3654fb8d4ba4b4921a22a8732d660e08d81cfa5281035aae6573a4f61927aaeecdcf6ee911af6ea5a4aa49bef54be3f63ada78ac5f914e1cfb4b78e644e2190944fb886f2688ffb91
 
-  - https://maxmovie.cdnsave.com/images/1628644797279L0zPH.jpg
+  - https://uyjoqvxyzgvv9714092.cdn.ntruss.com/data2/content/image/2021/10/07/.cache/512/20211007320109.jpg
 
 - Widget의 이름은 'BlurImage'이여야 합니다.
 - 이미지는 반드시 URL을 통해 App에 표시되어야 합니다.
