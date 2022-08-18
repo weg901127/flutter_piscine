@@ -12,7 +12,8 @@
 
   [Dart packages](https://pub.dev/)
 
-![https://flutter.dev/assets/images/showcase/cards/mgm-top-600.png](https://flutter.dev/assets/images/showcase/cards/mgm-top-600.png)  
+<!-- 이미지 URL 404에러 발생. 어떤 이미지인지 모르지만 주소 변경이 필요하지 않을까요? -->
+![https://flutter.dev/assets/images/showcase/cards/mgm-top-600.png](https://flutter.dev/assets/images/showcase/cards/mgm-top-600.png)
 
 **Instructions**
 

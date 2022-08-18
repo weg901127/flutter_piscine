@@ -40,7 +40,7 @@
 
     - https://mblogthumb-phinf.pstatic.net/MjAxNzAyMjVfMjMg/MDAxNDg3OTUzMTI3Mzc0._tG2RA_tY9IZcrw10kWz3YfLkhcuSRxm_rUQoLRhsQEg.hndrmcX4b8HI5c_EJB_JfftjG6C79zJXLQ0g6dZy9FQg.GIF.doghter4our/IMG_3900.GIF?type=w800
     - http://file3.instiz.net/data/file3/2018/08/14/d/7/b/d7b25d5d584d77103901068ed3844b9d.gif
-    - https://esquilo.io/png/thumb/hiZKt04D3Noh5n9-Ash-Ketchum-PNG-Image.png
+    - https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/85a954df-43b3-4b66-9e8d-94fe01b0451f/da9k0wb-1ae6c8d8-0b1f-46db-a6c9-3f9b44fc29bc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg1YTk1NGRmLTQzYjMtNGI2Ni05ZThkLTk0ZmUwMWIwNDUxZlwvZGE5azB3Yi0xYWU2YzhkOC0wYjFmLTQ2ZGItYTZjOS0zZjliNDRmYzI5YmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ySQkI8GmpoOQ3KvsCwlwXd1l_QjJ7DsuqmcGP9fwnsE
 
 - 이전 과제에서 만든 Custom Widget에 여러분들의 상상력이 갇힐 필요는 없습니다. 개선을 통해 더 확장성 있는 구조가 가능하다면 바꾸세요.
 

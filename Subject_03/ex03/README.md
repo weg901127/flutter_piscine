@@ -35,12 +35,12 @@
 <img  align="center" src="../../.src/day03_ex03_00.gif">  
 
 
-  - 라이브러리는 다음과 같이 주어집니다
+  - 라이브러리는 다음과 같이 주어집니다.
     - [http | Dart Package](https://pub.dev/packages/http)
 - 라이브러리는 Flutter SDK의 버전에 맞추어 사용해야 합니다.
 - 통신을 시도하는 URL은 다음과 같이 주어집니다.
   - [data](https://jsonplaceholder.typicode.com/todos/1)
-- class `TodoModel`을직접 정의해야 합니다. 네, 말 그대로 직접 정의하세요 그리고 이후에 플러그인을 통한 편리함을 느껴보세요. `TodoModel`는 http통신의 데이터 결과 값을 관리해야 합니다.
+- class `TodoModel`을 직접 정의해야 합니다. 네, 말 그대로 직접 정의하세요. 그리고 이후에 플러그인을 통한 편리함을 느껴보세요. `TodoModel`는 http통신의 데이터 결과 값을 관리해야 합니다.
   - TodoModel은 fromJson이라는 Constructor를 통해 데이터 값이 초기화 되어야 합니다.
 - 그럴 일은 없겠지만 혹시라도 네트워크 통신 Code가 200이 아닌경우 Exception처리를 해야 합니다.
 - 버튼을 눌렀을 때 호출하는 메서드의 이름은 `_fetchData`여야 합니다.
