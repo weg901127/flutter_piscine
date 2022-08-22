@@ -51,7 +51,7 @@
   - 현재 올바른 피자 재료를 제출하더라도 피자가 잘 제출되지 않은 것으로 나옵니다. 비즈니스 로직을 잘 작성해보세요,
 - Image
   - 현재 첫 게임 실행 시 Image의 rendering으로 인해 사진이 늦게 뜹니다.
-  - 이미지를 플러터 assert에 저장하여, 네트워크 통신 없이 이미지를 불러와야 합니다.
+  - 이미지를 플러터 assets에 저장하여, 네트워크 통신 없이 이미지를 불러와야 합니다.
 
 ---
 
@@ -65,5 +65,5 @@
 ❗️Android Studio에선 Flutter outline을 통해 파일의 함수와 위치의 상관관계를 확인할 수 있습니다.
 
 ⚡️Keyword
-`SnackBar`, `Dialog`, `Builder`, `Assert`, `ScaffoldMessenger`, `Refactoring`, `Flutter caffold 트리 구조`
+`SnackBar`, `Dialog`, `Builder`, `Assert`, `ScaffoldMessenger`, `Refactoring`, `Flutter Scaffold 트리 구조`
 
