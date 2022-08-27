@@ -2,8 +2,8 @@
 
 | 제출할 폴더 : | ex01      |
 | :------------ | :-------- |
-| 제출할 파일 : | main.dart |
-| 참고사항 :    | 없음      |
+| 제출할 파일 : | `ex01/main.dart`, `ex01/custom_widget/first_page.dart`<br />, `ex01/custom_widget/second_page.dart` |
+| 참고사항 :    | 없음                                                         |
 
 - 이 과제의 목표는 Flutter에서 Route 개념을 이해하고 Route를 이동할 수 있도록 구현해보는 것입니다.
 
