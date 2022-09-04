@@ -36,7 +36,6 @@
 
 
   - 라이브러리는 다음과 같이 주어집니다
-    - [syncfusion_flutter_gauges | Flutter Package](https://pub.dev/packages/syncfusion_flutter_gauges)
     - [intl | Dart Package](https://pub.dev/packages/intl)
     - [url_launcher | Flutter Package](https://pub.dev/packages/url_launcher)
     

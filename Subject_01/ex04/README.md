@@ -45,13 +45,13 @@
   - 마지막 메뉴의 선택은 Snackbar를 호출하지 않습니다.
   - Snackbar는 ScaffoldMessenger, context 등 Snackbar가 어떤 동작으로 띄어지는지 알고 있어야 해결할 수 있습니다.
 - Dialog
-  - 4번의 재료 선택이 만들어야 할 피자의 재료와 일치하다면 `피자가 잘 만들어졌습니다!` 를, 아니라면 `파지가 잘 만들어지지 않았습니다!`를 띄어야 합니다.
+  - 4번의 재료 선택이 만들어야 할 피자의 재료와 일치하다면 `피자가 잘 만들어졌습니다!` 를, 아니라면 `피자가 잘 만들어지지 않았습니다!`를 띄어야 합니다.
   - Dialog의 양 끝 모서리는 각져선 안됩니다.
   - Dialog에는 최소 제목, 내용, 버튼이 있어야 합니다. 추가적인 위젯은 평가에서 고려하지 않습니다.
   - 현재 올바른 피자 재료를 제출하더라도 피자가 잘 제출되지 않은 것으로 나옵니다. 비즈니스 로직을 잘 작성해보세요,
 - Image
   - 현재 첫 게임 실행 시 Image의 rendering으로 인해 사진이 늦게 뜹니다.
-  - 이미지를 플러터 assert에 저장하여, 네트워크 통신 없이 이미지를 불러와야 합니다.
+  - 이미지를 플러터 assets에 저장하여, 네트워크 통신 없이 이미지를 불러와야 합니다.
 
 ---
 
@@ -65,5 +65,5 @@
 ❗️Android Studio에선 Flutter outline을 통해 파일의 함수와 위치의 상관관계를 확인할 수 있습니다.
 
 ⚡️Keyword
-`SnackBar`, `Dialog`, `Builder`, `Assert`, `ScaffoldMessenger`, `Refactoring`, `Flutter caffold 트리 구조`
+`SnackBar`, `Dialog`, `Builder`, `Assert`, `ScaffoldMessenger`, `Refactoring`, `Flutter Scaffold 트리 구조`
 
